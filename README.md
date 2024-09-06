@@ -3,7 +3,8 @@
 ## Machine Learning Notebooks:
 
 
-* 📄 **Notebook:** .ipynb
+* 📄 **Notebook:** ML_Clasificacion.ipynb
+  
 Objetivo: predecir si una persona cobra mas de 50000 dólares en un año.
 
 1) Cargar el dataset elegido
