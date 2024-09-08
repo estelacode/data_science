@@ -46,6 +46,7 @@ Dataset:  Data_for_UCI_named.csv
     * **Fase 1**. Análisis Exploratorio de los datos(EDA)
       
     * **Fase 2**. Entrenamiento del modelo de regresión lineal y estudio de la bondad del mismo.
+      
          * Modelo 1 - Regressión Lineal Multivariante
          * Visualización de los residuos del modelo 1
          * Modelo 2 - Regressión Lineal Multivariante
@@ -56,6 +57,7 @@ Dataset:  Data_for_UCI_named.csv
             * MSE
               
     * **Fase 3**. Entrenamiento de modelos diferentes al método de regresión lineal
+      
          * KNeighborsRegressor
          * Multi-layer Perceptron Regression
          * Predicciones:
@@ -65,6 +67,7 @@ Dataset:  Data_for_UCI_named.csv
          * Evaluación Cualitativa de los modelos.
            
     * **Fase 4**. Entrenamiento con métodos de agregación: bagging y boosting
+      
          * Bagging con estimadores (LinearRegression)
          * Bagging con estimadores (MLPRegressor)
          * Boosting con estimadores (LinearRegression)
@@ -72,6 +75,7 @@ Dataset:  Data_for_UCI_named.csv
          * Métricas de Bondad
            
    * **Fase 5**. Métodos de stacking
+     
          * Stacking con regresor lineal, kNN y MLP
          * Stacking con regresor lineal y kNN
          * Stacking con regresor lineal y MLP
