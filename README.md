@@ -75,7 +75,6 @@ Dataset:  Data_for_UCI_named.csv
          * Métricas de Bondad
            
    * **Fase 5**. Métodos de stacking
-     
          * Stacking con regresor lineal, kNN y MLP
          * Stacking con regresor lineal y kNN
          * Stacking con regresor lineal y MLP
