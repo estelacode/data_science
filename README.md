@@ -81,6 +81,41 @@ Dataset:  Data_for_UCI_named.csv
          * Stacking con regresor lineal y MLP
          * Stacking con regresor kNN y MLP
          * Métricas de Bondad
+
+  * Tech Stack
+     * Python
+     * Machine Learning Algorithm
+     * ExtraTreesClassifier
+     * ExtraTreesRegressor
+     * SelectKBest
+     * LDA
+     * PCA
+     * DecisionTreeClassifier
+     * Naive Bayes
+     * SVM
+     * Logistic Regression
+     * LinearRegression
+     * GridSearchCV
+     * Bagging
+     * BaggingRegressor
+     * Boosting
+     * AdaBoostRegressor
+     * StackingRegressor
+     * LinearRegression
+     * KNeighborsRegressor
+     * MLPRegressor
+     * R2 - score
+     * MAE
+     * MSE
+     * confusion_matrix
+     * accuracy_score,
+     * recall_score,
+     * f1_score,
+     * precision_score,
+     * classification_report
+     * roc_curve
+     
+
         
       
 
