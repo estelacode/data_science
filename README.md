@@ -82,7 +82,7 @@ Dataset:  Data_for_UCI_named.csv
          * Stacking con regresor kNN y MLP
          * Métricas de Bondad
 
-  * Tech Stack
+## Tech Stack
      * Python
      * Machine Learning Algorithm
      * ExtraTreesClassifier
